@@ -40,6 +40,7 @@ int calculoDigitoVerificador(int CNPJ[], int m[], int N)
 // FIM FUNÇÃO CALCULAR CNPJ
 
 
+// PROGRAMA PRINCIPAL
 int main()
 {
 	int CNPJ[13];
@@ -66,6 +67,8 @@ int main()
 	
 	return 0;
 }
+// FIM PROGRAMA PRINCIPAL
+
 
 
 
